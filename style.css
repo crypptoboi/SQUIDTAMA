@@ -5852,3 +5852,48 @@ div#particles .row.version3 {
 .img-last{
     width: 85%;
 }
+
+
+
+
+
+
+body { background: #000514;}
+
+/* My Skills */
+
+.progress {
+    height: 20px;
+      border-radius:20px;
+    background-color: #ffbb00;
+  }
+  
+  .progress .skill .val {
+    float: right;
+    font-style: normal;
+    margin: 0 20px 0 0;
+
+  }
+  .container .lossss span {
+    
+      display:block;
+      position: relative;
+      font-size: 13px;
+      font-weight: 600;
+      text-transform:uppercase;
+      color: #ffffff;
+      line-height: 17px;
+      margin-bottom:5px;
+  }
+  .progress-bar {
+    text-align: left;
+    background-color: #ca0b68;
+    border-radius:20px;
+    transition-duration: 3s;
+  }
+
+.container .lossss {
+    width: 60% !important;
+    align-content: center !important;
+}
+
