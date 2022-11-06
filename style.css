@@ -5863,15 +5863,18 @@ body { background: #000514;}
 /* My Skills */
 
 .progress {
-    height: 20px;
-      border-radius:20px;
+
+    height: 15px;
+    border-radius:15px;
     background-color: #ffbb00;
+    width: 300px;
+    margin: 0 auto;
   }
   
   .progress .skill .val {
     float: right;
     font-style: normal;
-    margin: 0 20px 0 0;
+    margin: 0 15px 0 0;
 
   }
   .container .lossss span {
